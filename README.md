@@ -30,7 +30,7 @@ Step 4 -  AND ALSO CREATE ONE FILE proxy.txt FILE ON REPLIT!
 
 
 # Demo : 
-https://github.com/ziddi-shop/ig-unban-file.git
+https://github.com/ziddi-shop/ig-unban.git
 
 # For Any kind of Help 
 
